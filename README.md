@@ -63,7 +63,9 @@ Sunnyscribe is a professional offline audio transcription and text editing tool.
         • Installation package size: ~300MB
         • Supports Windows 10 and above
       
-      - Python environment package: [Download Link]（https://pan.baidu.com/s/1D9-otJsSt_DWciq5t9D-XQ?pwd=sunn）
+      - Python environment package: 
+      [Download Link1](https://pan.baidu.com/s/1D9-otJsSt_DWciq5t9D-XQ?pwd=sunn)
+      [Download Link2](https://drive.google.com/drive/folders/129V4UkZTwik1D-AroUJEXkkPV6meqmBF)
         • Includes FunASR transcription engine and necessary Python environment
         • Environment package size: ~8GB
         • Recommend 3GB+ free disk space

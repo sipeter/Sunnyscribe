@@ -61,7 +61,9 @@ Sunny语音转写编辑器（Sunnyscribe）是一款专业的离线音频转写�
         • 安装包大小：约300MB
         • 支持Windows 10及以上系统
       
-      - Python环境包：[下载链接](https://pan.baidu.com/s/1D9-otJsSt_DWciq5t9D-XQ?pwd=sunn)
+      - Python环境包：
+      [下载链接1](https://pan.baidu.com/s/1D9-otJsSt_DWciq5t9D-XQ?pwd=sunn)
+      [下载链接2](https://drive.google.com/drive/folders/129V4UkZTwik1D-AroUJEXkkPV6meqmBF)
         • 包含FunASR转写引擎和必要的Python环境
         • 环境包大小：约8GB
         • 建议预留3GB以上磁盘空间
