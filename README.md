@@ -5,7 +5,7 @@
 ## 1. Product Overview
 
 ### Introduction
-Sunnyscribe is a professional offline audio transcription and text editing tool. Developed using the Electron framework and integrated with the advanced FunASR speech recognition engine, it provides an efficient and secure audio transcription solution. This software is particularly suitable for users who need to convert audio content to text and perform professional text editing.
+Sunnyscribe is a professional offline audio transcription and text editing tool. Developed using the Electron framework and integrated with the advanced FunASR and Whisper speech recognition engine, it provides an efficient and secure audio transcription solution. This software is particularly suitable for users who need to convert audio content to text and perform professional text editing.
 
 ### Key Features
 1. Audio Transcription
